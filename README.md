@@ -43,6 +43,10 @@
 Install it by executing any of the following, depending on the preferred package manager:
 
 ```bash
+bun add -d @igorskyflyer/oxlint-config
+```
+
+```bash
 pnpm add -D @igorskyflyer/oxlint-config
 ```
 
@@ -56,7 +60,9 @@ npm i -D @igorskyflyer/oxlint-config
 
 <br>
 
-Then extend the config in `.oxlintrc.json`:
+Then extend the config in **.oxlintrc.json**:
+
+`.oxlintrc.json`
 
 ```json
 {
@@ -65,6 +71,8 @@ Then extend the config in `.oxlintrc.json`:
 ```
 
 Override any rule locally as needed:
+
+`.oxlintrc.json`
 
 ```json
 {
